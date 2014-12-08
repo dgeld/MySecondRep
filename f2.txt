@@ -1,1 +1,1 @@
-git config --global user.name "2"
+git config --global user.name "un2"
